@@ -22,9 +22,9 @@ Target:
 
 -Parking administrators: Individuals responsible for managing parking spaces, reservations, and payment records.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
+UML Class Diagram:
+<img width="594" height="703" alt="Screenshot 2026-11-12 at 10 39 45 PM" src="https://github.com/user-attachments/assets/ec81ad8b-5827-4cd3-aef2-cf963e7c8a71" />
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
 ### Goals:
 
