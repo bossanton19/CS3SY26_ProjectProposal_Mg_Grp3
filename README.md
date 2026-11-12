@@ -2,19 +2,18 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	: PARKING PILOT
-### Section			   	      : MAGNESIUM
-### Group Members			    : DIONISIO, GRAFILO, RODRIGUEZ
-### Date (Proposal Date)  : Nov 12, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
+### Project Title or Name of the Application: PARKING PILOT
+### Section: MAGNESIUM
+### Group Members: DIONISIO, GRAFILO, RODRIGUEZ
+### Date (Proposal Date): Nov 12, 2026
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
 
+- Include the description as well of your target demographics as the user of your application.
+  
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-
-- Include the description as well of your target demographics as the user of your application. 
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
