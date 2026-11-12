@@ -3,7 +3,7 @@
 
 ## Project Proposal Template:
 cvbbbc
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: PARKING PILOT
 ### Section			   	      : MAGNESIUM
 ### Group Members			    : DIONISIO, GRAFILO, RODRIGUEZ
 ### Date (Proposal Date)  : Nov 12, 2026
