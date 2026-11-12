@@ -28,10 +28,13 @@ Target:
 
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+The long-term goal of Parking Pilot is to create a smoother, more organized parking experience for both everyday drivers and facility staff. By combining slot reservations, automated fee calculation, and vehicle tracking into a single Python application, the project aims to solve common issues like overcrowded lots, manual logging errors, and wasted time searching for spaces. Ultimately, it is designed to help bigger establishments and franchises run their parking areas more reliably.
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+
+Objective 1: Allow vehicle owners to easily view available spaces and book slots ahead of time.   
+
+Objective 2: Automate parking fee computations using the user's exact parking duration to avoid billing mistakes.   
+
+Objective 3: Help parking attendants and administrators monitor incoming and outgoing vehicles while keeping clear records of spaces and payments.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
