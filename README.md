@@ -4,9 +4,9 @@
 ## Project Proposal Template:
 cvbbbc
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+### Section			   	      : MAGNESIUM
+### Group Members			    : DIONISIO, GRAFILO, RODRIGUEZ
+### Date (Proposal Date)  : Nov 12, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
