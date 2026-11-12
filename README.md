@@ -3,7 +3,7 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application: PARKING PILOT
+### Project Title or Name of the Application: Parking Pilot
 ### Section: MAGNESIUM
 ### Group Members: DIONISIO, GRAFILO, RODRIGUEZ
 ### Date (Proposal Date): Nov 12, 2026
