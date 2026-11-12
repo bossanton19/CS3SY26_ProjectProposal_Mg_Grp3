@@ -13,6 +13,7 @@ Parking Pilot is a python-based app that is meant to make the parking system mor
 
 
 Target:
+
 -Drivers and vehicle owners: People who need convenient access to parking spaces.
 
 -Students and employees: Individuals who regularly visit schools, offices, or establishments with limited parking spaces.
