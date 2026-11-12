@@ -9,13 +9,14 @@
 ### Date (Proposal Date): Nov 12, 2026
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+Parking Pilot is a python-based app that is meant to make the parking system more efficient especially in bigger areas/franchises. It lets the user check available parking spaces, reserve slots, and calculate their fees with their parking duration. It also allows the administrators to manage parking spaces, track vehicles exit and entrance, and follow-up/keep notice of payments. With this application we plan to combine several functional features into a singular more easy to use and effective system.
 
-- Include the description as well of your target demographics as the user of your application.
-  
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
-- The description is then followed by the class diagram, depicting clearly what was described.
+Target:
+Drivers and vehicle owners: People who need convenient access to parking spaces.
+Students and employees: Individuals who regularly visit schools, offices, or establishments with limited parking spaces.
+Parking attendants: Personnel responsible for monitoring vehicle entries, exits, and parking availability.
+Parking administrators: Individuals responsible for managing parking spaces, reservations, and payment records.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
